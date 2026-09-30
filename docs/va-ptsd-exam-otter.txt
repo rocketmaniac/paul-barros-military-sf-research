@@ -90,9 +90,10 @@ As told to the examiner:
 This is an examiner paraphrase of what Paul relayed during a VA PTSD
 exam. It is not an after-action report and does not name a camp.
 
-Family oral history (separate source) tells a different setting for the
-same nickname: tossed explosives into a latrine and killed an otter.
-Two tellings; do not collapse them into one event.
+Family oral history (separate source) is another recollection of the
+same incident: tossed explosives into a latrine and killed an otter.
+One event; two tellings. Detail differs (latrine vs. pet otter / ditch /
+C4); do not treat them as different incidents.
 
 ============================================================
 SURROUNDING PTSD / WORK CONTEXT ON THIS PAGE
@@ -139,7 +140,8 @@ CAUTIONS
 ============================================================
 
 - Examiner notes, not Paul's handwritten claim letter (see
-  docs/stressor-letter.txt) and not family oral history.
+  docs/stressor-letter.txt). Family latrine telling and this page are
+  two recollections of the same Otter / C4 incident.
 - Left margin cropped; bracketed words are restorations from remaining
   letters, not guesses of whole missing sentences.
 - No camp, grid, or named teammate on this page.
